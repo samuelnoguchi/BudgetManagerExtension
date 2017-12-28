@@ -1,1 +1,1 @@
-# BugetManagerExtension
+# BudgetManagerExtension
